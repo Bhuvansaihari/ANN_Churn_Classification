@@ -6,4 +6,3 @@ tensorboard
 matplotlib
 streamlit
 python -m pip install --upgrade pip
-
